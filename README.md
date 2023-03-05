@@ -18,16 +18,18 @@
 
 ex.
 
-## Awesome
+### Awesome
 
 - [awesome-myongji](https://github.com/jongwooo/awesome-myongji) - 명지대학교 관련 유용한 프로젝트들을 소개합니다
 -->
 
-## 수강신청
+## 프로젝트
+
+### 수강신청
 
 - [명지대학교 수강신청 연습](https://github.com/grayashh/sugang-practice) - 명지대학교 수강신청 연습 웹 서비스
 
-## 학식
+### 학식
 
 - [명지대가 준비한 식사 : 명준식](https://github.com/ConvergenceSwAce/22-F-SchoolMeal) - 명지대학교 재학생을 위한 학식 확인 서비스
 
