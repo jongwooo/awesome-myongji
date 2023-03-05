@@ -20,7 +20,7 @@ ex.
 
 ## 기여 방법
 
-[CONTRIBUTING.md](.github/CONTRIBUTING.md) 문서를 참고하여 기여해주세요.
+[CONTRIBUTING.md](.github/CONTRIBUTING.md) 문서를 참고해주세요.
 
 ## 라이센스
 
