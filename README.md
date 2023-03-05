@@ -3,6 +3,21 @@
 
 명지대학교 관련 유용한 프로젝트들을 소개합니다.
 
+<!--
+주석 하단부터 작성해주시면 됩니다.
+아래의 포맷을 참고하여 작성 부탁드립니다. (필요한 경우, 소제목을 추가해주세요.)
+
+## 프로젝트 관련 주제
+
+- [프로젝트명](프로젝트링크) - 프로젝트 설명
+
+ex.
+
+## Awesome
+
+- [awesome-myongji](https://github.com/jongwooo/awesome-myongji) - 명지대학교 관련 유용한 프로젝트들을 소개합니다
+-->
+
 ## 기여 방법
 
 [CONTRIBUTING.md](.github/CONTRIBUTING.md) 문서를 참고하여 기여해주세요.
